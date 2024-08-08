@@ -11,3 +11,5 @@ Run commands:
 git clone https://github.com/Begitdj/Termux-Killer.git && cd Termux-Killer && sh TermuxKiller.sh
 ```
 End that's all 
+# Not Working?
+**Open new `issue`**
