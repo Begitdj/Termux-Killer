@@ -11,5 +11,9 @@ Run commands:
 git clone https://github.com/Begitdj/Termux-Killer.git && cd Termux-Killer && sh TermuxKiller.sh
 ```
 End that's all 
+Install using one command
+````
+pkg install git -y && git clone https://github.com/Begitdj/Termux-Killer.git && cd Termux-Killer && sh TermuxKiller.sh
+````
 # Not Working?
 **Open new `issue`**
